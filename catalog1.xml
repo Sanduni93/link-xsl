@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style1.xsl"?>
+<student>
+
+    <students regno="001">
+
+    	<fname>Nimal</fname>
+    	<lname>Perera</lname>
+    	<department>Computing and Information Systems</department>
+
+    </students>
+
+
+    <students regno="002">
+
+    	<fname>Saman</fname>
+    	<lname>Athukorala</lname>
+    	<department>Computing and Information Systems</department>
+
+    </students>
+
+
+    <students regno="003">
+
+    	<fname>Nishantha</fname>
+    	<lname>Dunusingha</lname>
+    	<department>Physical Sciences and Technology</department>
+
+    </students>
+
+
+    <students regno="004">
+
+    	<fname>Ransi</fname>
+    	<lname>Ranasinghe</lname>
+    	<department>Natural Resources and Environment</department>
+
+    </students>
+
+
+    <students regno="005">
+
+    	<fname>Sandumi</fname>
+    	<lname>Jasinghe</lname>
+    	<department>Physical Sciences and Technology</department>
+
+    </students>
+
+
+</student>	
